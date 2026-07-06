@@ -78,4 +78,4 @@ streamlit run app.py
 
 ## Author
 
-[Your Name] — Unified Mentor Project Submission
+Gopal Santra — Unified Mentor Project Submission
